@@ -4,5 +4,6 @@
 3. researching how flow should work / effort
 4. Negative / user's
 5. Not reproducing
+6. the problem and effort
 
 Write your answers here.
