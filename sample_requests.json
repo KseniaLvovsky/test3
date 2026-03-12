@@ -1,0 +1,20 @@
+{
+  "valid_request": {
+    "user_id": "u_123",
+    "service_id": "svc_456",
+    "booking_date": "2026-03-20",
+    "time_slot": "14:00",
+    "notes": "Near the back entrance"
+  },
+  "missing_user_id": {
+    "service_id": "svc_456",
+    "booking_date": "2026-03-20",
+    "time_slot": "14:00"
+  },
+  "invalid_time_slot": {
+    "user_id": "u_123",
+    "service_id": "svc_456",
+    "booking_date": "2026-03-20",
+    "time_slot": "25:99"
+  }
+}
