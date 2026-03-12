@@ -1,10 +1,11 @@
 # Task 1 Answers
-1. Important
-2. Priority
-3. researching how flow should work / effort
-4. Negative / user's
-5. Not reproducing
-6. the problem and effort
+Smoke testing is performed to verify that the most ______ functionality of the build works. An:  Important
+A bug with low business impact but no workaround may still have high ______ depending on release context. An: priority
+Test cases should be written so that another tester can execute them with minimal ______. An: researching how flow should work / effort
+Negative testing is used to validate system behavior for ______ inputs or actions. An: Negative / user's
+Retesting is done after a defect is ______ to confirm the issue is resolved. An:  Not reproducing
+A good bug title should be short, specific, and clearly describe the ______. An: the problem and effort
+
 
 Write your answers here.
 What is the difference between verification and validation?
