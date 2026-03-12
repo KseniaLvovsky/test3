@@ -16,7 +16,7 @@ Write your answers here.
 
 tests:
 1. Mandatory fields
-   Try to send empty fields, expect a 401 error
+   - Try to send empty fields, expect a 401 error
 2. Negative flow
    Send the date/numbers/time in the wrong format
    Use a string instead of an int format
