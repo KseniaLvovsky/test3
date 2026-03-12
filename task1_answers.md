@@ -17,3 +17,6 @@ Priority is how big the effort on the user.
 
 When would you choose exploratory testing over detailed scripted testing?
 Better use the exploratory when we don't have a clear design/documentation. Or when we finish all the mandatory test cases and want to see all of the functionality working before release.
+
+What should be included in a good bug report besides steps to reproduce?
+Clear title, descriptions, environment, device, user ( test data), expected, and actual result.
