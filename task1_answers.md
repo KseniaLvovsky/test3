@@ -11,3 +11,7 @@ What is the difference between verification and validation?
 Answer: Verification - Are we built the product right?
 Validation - are we build the right product?
 
+What is the difference between severity and priority?
+Severity is about how sereous bug is for the system
+Priority is how big the effort on the user.
+
