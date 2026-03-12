@@ -7,3 +7,7 @@
 6. the problem and effort
 
 Write your answers here.
+What is the difference between verification and validation?
+Answer: Verification - Are we built the product right?
+Validation - are we build the right product?
+
