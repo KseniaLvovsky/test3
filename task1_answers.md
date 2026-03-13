@@ -21,3 +21,6 @@ Better use the exploratory when we don't have a clear design/documentation. Or w
 
 What should be included in a good bug report besides steps to reproduce?
 Clear title, descriptions, environment, device, user ( test data), expected, and actual result.
+
+
+gygfytfytfyt
